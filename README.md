@@ -45,5 +45,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## License
 This project is under [MIT Licence](LICENSE)
 
-## Contact
-For any inquiries or feedback, please contact [Izam mohammed] at [izamdeveloper1@gmail.com].
